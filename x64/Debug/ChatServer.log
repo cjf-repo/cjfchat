@@ -1,0 +1,33 @@
+﻿  AsioIOServicePool.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\AsioIOServicePool.h(3,10): fatal error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  ChatGrpcClient.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\ConfigMgr.h(3,10): fatal error C1083: 无法打开包括文件: “boost/property_tree/ptree.hpp”: No such file or directory
+  ChatServer.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\CSession.h(2,10): fatal error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  ChatServiceImpl.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\ChatServiceImpl.h(2,10): fatal error C1083: 无法打开包括文件: “grpcpp/grpcpp.h”: No such file or directory
+  ConfigMgr.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\ConfigMgr.h(3,10): fatal error C1083: 无法打开包括文件: “boost/property_tree/ptree.hpp”: No such file or directory
+  CServer.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\CServer.h(2,10): fatal error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  CSession.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\CSession.h(2,10): fatal error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  LogicSystem.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\CSession.h(2,10): fatal error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  message.grpc.pb.cc
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\message.pb.h(10,10): fatal error C1083: 无法打开包括文件: “google/protobuf/port_def.inc”: No such file or directory
+  message.pb.cc
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\message.pb.h(10,10): fatal error C1083: 无法打开包括文件: “google/protobuf/port_def.inc”: No such file or directory
+  MsgNode.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\MsgNode.h(5,10): fatal error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  MysqlDao.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\MysqlDao.h(4,10): fatal error C1083: 无法打开包括文件: “jdbc/mysql_driver.h”: No such file or directory
+  MysqlMgr.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\MysqlDao.h(4,10): fatal error C1083: 无法打开包括文件: “jdbc/mysql_driver.h”: No such file or directory
+  RedisMgr.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\RedisMgr.h(3,10): fatal error C1083: 无法打开包括文件: “hiredis.h”: No such file or directory
+  StatusGrpcClient.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\ConfigMgr.h(3,10): fatal error C1083: 无法打开包括文件: “boost/property_tree/ptree.hpp”: No such file or directory
+  UserMgr.cpp
+G:\yjs\workspace\llfc_porject\llfcchat\server\ChatServer\CSession.h(2,10): fatal error C1083: 无法打开包括文件: “boost/asio.hpp”: No such file or directory
+  正在生成代码...
